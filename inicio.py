@@ -1,4 +1,5 @@
 #começo do projeto no github
-teste = 10
+var_teste = 4+1
+teste = 5 + var_teste
 for i in range(teste):
     print(i)
