@@ -4,6 +4,12 @@ Para abrir o repositorio no GIT
  - tem que estar com ele aberto n obrowse
  - Git:/ /workspace/Repositorio_X/ [Codespaces:symmetrical enigma]
 
+Dicas Docker
+
+docker run --name mongo-local -p 27017:27017 -d mongo (inicia o container do mongo)
+docker ps (ver os containers ativos)
+docker stop mongo-local (para o container do mongo)
+
 Dicas PowerShell
 
 PowerShell
